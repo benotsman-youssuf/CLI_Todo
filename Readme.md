@@ -1,2 +1,5 @@
-#CLI_Todo
-###A command line interface todo list app
+
+# CLI_Todo
+
+A command line interface TODO list app
+
