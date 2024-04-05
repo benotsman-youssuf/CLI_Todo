@@ -1,5 +1,4 @@
+# CLI TODO App
 
-# CLI_Todo
-
-A command line interface TODO list app
+A command line todo list application for managing your tasks efficiently.
 
